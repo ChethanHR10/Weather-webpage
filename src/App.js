@@ -62,6 +62,21 @@ function App() {
       </div>
     </div>
   );
+return (
+    <>
+        <Navbar/>
+        <Routes>
+            <Route path='/' element={<CoinsTable coins={coins}/>}/>
+            <Route path='/coin' element={<CoinDetails/>}>
+                <Route path=':coinId' element={<CoinDetails/>}/>
+            </Route>
+            <Route path='/option-prices' element={<CoinOptionsTable/>}>
+                <Route path=':coinId' element={<CoinOptionsTable spotValue={1500} />}/>
+            </Route>
+        </Routes>
+
+    </>
+);
 }
 
 export default App;
