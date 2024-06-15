@@ -11,11 +11,7 @@ The Weather App is a simple web application that provides weather information fo
 - Get current weather information for any city
 - Displays temperature, weather conditions, humidity, and wind speed
 - User-friendly interface
-
-## Screenshot
-
-![App Screenshot](screenshot.png)
-
+- 
 ## Installation
 
 To get a local copy up and running follow these simple steps:
@@ -65,5 +61,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ChethanHR10 - chethanhr10@gmail.com
 
-Project Link: [https://github.com/ChethanHR10/Weather-app](https://github.com/ChethanHR10/Weather-app)
 
