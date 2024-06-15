@@ -1,5 +1,12 @@
 import React, { useState } from 'react'
 import axios from 'axios'
+import BrowserRouter from 'react-router-dom/BrowserRouter'
+
+ReactDOM.render((
+   <BrowserRouter basename={process.env.PUBLIC_URL}>
+     <App />
+   </BrowserRouter>
+), ...)  
 
 function App() {
   const [data, setData] = useState({})
