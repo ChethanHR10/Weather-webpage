@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ChethanHR10/Weather/static/css/main.ece5b06f.css",
+    "main.js": "/ChethanHR10/Weather/static/js/main.fd754156.js",
+    "static/media/pexels-sebastian-189349.jpg": "/ChethanHR10/Weather/static/media/pexels-sebastian-189349.c5085854eb0942edc218.jpg",
+    "index.html": "/ChethanHR10/Weather/index.html",
+    "main.ece5b06f.css.map": "/ChethanHR10/Weather/static/css/main.ece5b06f.css.map",
+    "main.fd754156.js.map": "/ChethanHR10/Weather/static/js/main.fd754156.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ece5b06f.css",
+    "static/js/main.fd754156.js"
+  ]
+}
